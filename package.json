@@ -1,0 +1,19 @@
+{
+  "name": "npm-test-edrom",
+  "version": "1.0.0",
+  "description": "Este es el ejercicio donde se da de alta un nuevo paquete npm segun el curso de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eduardo-Rodriguez-Martinez/npm-test-edrom.git"
+  },
+  "author": "Eduardo Rodriguez Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eduardo-Rodriguez-Martinez/npm-test-edrom/issues"
+  },
+  "homepage": "https://github.com/Eduardo-Rodriguez-Martinez/npm-test-edrom#readme"
+}
